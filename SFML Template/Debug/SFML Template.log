@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  SFML Template.cpp
+c:\users\feng\source\repos\final\sfml template\sfml template.cpp(88): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SFML Template.vcxproj -> C:\Users\Feng\source\repos\Final\Debug\SFML Template.exe
